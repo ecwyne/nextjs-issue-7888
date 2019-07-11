@@ -1,0 +1,21 @@
+{
+    "name": "nextjs-issue-7888",
+    "version": 2,
+    "alias": ["nextjs-issue-7888.now.sh"],
+    "regions": ["sfo1"],
+    "builds": [
+        {
+            "src": "www/package.json",
+            "use": "@now/next"
+        }
+    ],
+    "routes": [
+        {
+            "src": "/(.*)",
+            "dest": "/www/$1",
+            "headers": {
+                "x-request-path": "$1"
+            }
+        }
+    ]
+}

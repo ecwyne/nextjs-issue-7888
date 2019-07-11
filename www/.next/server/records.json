@@ -1,0 +1,47 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "multi private-next-pages/api/hello.ts": 0,
+      "multi next/dist/pages/_app": 1,
+      "multi next/dist/pages/_error": 2,
+      "multi next/dist/pages/_document": 3
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3
+    }
+  },
+  "chunks": {
+    "byName": {
+      "static/rv4l1b6Mf4ZRguvOiSXY9/pages/_app.js": 0,
+      "static/rv4l1b6Mf4ZRguvOiSXY9/pages/_document.js": 1,
+      "static/rv4l1b6Mf4ZRguvOiSXY9/pages/_error.js": 2,
+      "static/rv4l1b6Mf4ZRguvOiSXY9/pages/api/hello.js": 3,
+      "static/0qkKoAU2zHe4ynCU6OpoH/pages/_app.js": 4,
+      "static/0qkKoAU2zHe4ynCU6OpoH/pages/_document.js": 5,
+      "static/0qkKoAU2zHe4ynCU6OpoH/pages/_error.js": 6,
+      "static/0qkKoAU2zHe4ynCU6OpoH/pages/api/hello.js": 7,
+      "static/l18YycxEdtWbeQFX8qV5B/pages/_app.js": 0,
+      "static/l18YycxEdtWbeQFX8qV5B/pages/_document.js": 1,
+      "static/l18YycxEdtWbeQFX8qV5B/pages/_error.js": 2,
+      "static/l18YycxEdtWbeQFX8qV5B/pages/api/hello.js": 3,
+      "static/hBQJbOqMyi2uI9MBTn-Bm/pages/_app.js": 4,
+      "static/hBQJbOqMyi2uI9MBTn-Bm/pages/_document.js": 5,
+      "static/hBQJbOqMyi2uI9MBTn-Bm/pages/_error.js": 6,
+      "static/hBQJbOqMyi2uI9MBTn-Bm/pages/api/hello.js": 7,
+      "static/8dpH9ewgc0BB-bch12TLv/pages/_app.js": 0,
+      "static/8dpH9ewgc0BB-bch12TLv/pages/_document.js": 1,
+      "static/8dpH9ewgc0BB-bch12TLv/pages/_error.js": 2,
+      "static/8dpH9ewgc0BB-bch12TLv/pages/api/hello.js": 3
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      2,
+      3
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "nextjs-issue-7888",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+        "dev": "next",
+        "build": "next build",
+        "start": "next start"
+    },
+    "dependencies": {
+        "@types/react": "^16.8.23",
+        "apollo-server-micro": "^2.6.8",
+        "faunadb": "^2.6.1",
+        "graphql": "^14.4.2",
+        "next": "^9.0.1-canary.1",
+        "react": "^16.8.6",
+        "react-dom": "^16.8.6",
+        "typescript": "^3.5.3"
+    }
+}

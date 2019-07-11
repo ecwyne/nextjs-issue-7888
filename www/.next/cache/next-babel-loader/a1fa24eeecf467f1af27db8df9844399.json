@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { Client } from 'faunadb';\nexport default (function (_req, res) {\n  var client = new Client({\n    secret: 'foobar'\n  });\n  console.log(client);\n  res.send({\n    message: 'hello world'\n  });\n});","map":null,"metadata":{},"sourceType":"module"}

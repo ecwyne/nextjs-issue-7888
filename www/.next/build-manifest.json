@@ -1,0 +1,15 @@
+{
+  "devFiles": [],
+  "pages": {
+    "/_app": [
+      "static/runtime/webpack-3df6523e264ff2ac6548.js",
+      "static/chunks/commons.5cd610d08d3c8fcd6722.js",
+      "static/runtime/main-5d7459185596680ab1c3.js"
+    ],
+    "/_error": [
+      "static/runtime/webpack-3df6523e264ff2ac6548.js",
+      "static/chunks/commons.5cd610d08d3c8fcd6722.js",
+      "static/runtime/main-5d7459185596680ab1c3.js"
+    ]
+  }
+}
